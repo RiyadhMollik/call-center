@@ -1,0 +1,3 @@
+# This directory is for uploaded audio files
+# The .gitkeep file ensures this directory is tracked in git
+# but the uploaded files are ignored via .gitignore
